@@ -4,3 +4,4 @@ target
 /view/flutter/**/gen/*
 **/*.log
 dist
+node_modules
